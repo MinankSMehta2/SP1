@@ -1,7 +1,7 @@
 // Your First Program
-
-class HelloWorld {
+public class hello_world {
     public static void main(String[] args) {
+        // Your code her
         System.out.println("Hello, World!"); 
     }
 }
